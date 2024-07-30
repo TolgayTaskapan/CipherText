@@ -1,5 +1,3 @@
-CSCI_4176_Group_6
-
 Date Created: 
 
 11 APR 2023
@@ -10,12 +8,13 @@ Cipher Text
 
 Authors:
 
+Tolgay Taskapan
 Luiza Araujo de Sousa
 Altamash Anwar
 Harris Beck
 Griffin Lidstone
 Heemal Morakhia
-Tolgay Taskapan
+
 
 Sources Used:
 
